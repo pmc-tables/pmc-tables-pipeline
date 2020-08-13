@@ -1,5 +1,7 @@
 # PMC Tables Pipeline
 
+**Note:** The data processing pipeline notebooks have been moved to the main [`pmc-tables`](https://github.com/pmc-tables/pmc-tables) repo. The `pmc-tables-pipeline` repo has been archived.
+
 ## Flowchart
 
 ```mermaid
